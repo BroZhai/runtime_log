@@ -883,4 +883,5 @@ Flexsim取得重大进展! 整一套工作逻辑基本完成了, 但是有时还
 2025.10.15
 
 今天主攻Sec小组Project, 开了个档, 搞定工程需要哪些内容
+更新了工程的readme, 整理了Sec工程的需求, 现在是'real-time' requirement, 正在寻找相关的academic sources
 2025.10.16
