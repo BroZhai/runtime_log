@@ -925,4 +925,5 @@ dt proposal正式提交
 今天先把ppt快速整理一下, 过一遍, 随后继续推进Flexsim, 还有时间的话看看SEC工程
 ppt过完了, 交了, 现在开整Flexsim
 Flexsim取得重大进展, 差个AGV小车
+AGV小车实现了, 但是参数除了些许问题, 回来再调
 2025.10.23
