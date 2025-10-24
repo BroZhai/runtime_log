@@ -930,4 +930,6 @@ AGV小车实现了, 但是参数除了些许问题, 回来再调
 
 今天先处理课上内容, 随后解决Flexsim, 简单讨论下Sec Interim Report, 接下来推下FYP
 开始解决Flexsim参数问题
+解决了Flexsim的参数问题, FYP明天开搞
+简单搞了下ELC的Proposal Outline, 遇到了超级assistant, repharse好了第一个part
 2025.10.24
