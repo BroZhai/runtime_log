@@ -927,3 +927,6 @@ ppt过完了, 交了, 现在开整Flexsim
 Flexsim取得重大进展, 差个AGV小车
 AGV小车实现了, 但是参数除了些许问题, 回来再调
 2025.10.23
+
+今天先处理课上内容, 随后解决Flexsim, 简单讨论下Sec Interim Report, 接下来推下FYP
+2025.10.24
