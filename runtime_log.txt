@@ -934,3 +934,6 @@ AGV小车实现了, 但是参数除了些许问题, 回来再调
 简单搞了下ELC的Proposal Outline, 遇到了超级assistant, repharse好了第一个part
 推进了下Sec工程, 完成了40%的Interim Report, 同时追加了RSA实现, 但是代价是文件被限制在190Byte了
 2025.10.24
+
+今天先简单看一下外语的MidTerm资料, 随后开始推进FYP基本框架
+2025.10.25
