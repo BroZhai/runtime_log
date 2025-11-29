@@ -1127,3 +1127,6 @@ Holy shit出现重大事故, 好在还有时间, 哥们得把vite给通了
 基本搞定了ELC Proposal, 还差一小部分ai要修, FYP项目接下来搞懂如何让AI'流式输出'
 搞清楚了CJS和ECMA导入导出时的不同语法规范, 修改了FYP的语法为ECMA, Vite构建工具绕不过去了 (node后端代码转前端浏览器可认js)
 2025.11.28
+
+今天搞定ELC Proposal, 然后的时间继续了解Vite
+2025.11.29
