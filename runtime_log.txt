@@ -1295,4 +1295,5 @@ Sec的组员突然有活动了, 跟踪一下最新的项目进展, 完善一下R
 New Year, 要开始上强度了, 继续整理Project Mehthod, 争取今天搞完这个部分, 还有时间的话把Experiment & Result部分简单展示一下
 基本完成了核心的讲解部分, 语法没修, 还差测试展示和Future work, 继续继续
 修完了语法, 调整了整体结构, 继续完成展示 和 Conclusion&Future work
+基本搞定了展示, 语法没修, 明天把conclusion &  Future work的尾巴补上, 争取明天基本搞定报告, 然后开始ppt
 2026.01.01
