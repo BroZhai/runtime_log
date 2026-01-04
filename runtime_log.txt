@@ -1311,4 +1311,5 @@ New Year, 要开始上强度了, 继续整理Project Mehthod, 争取今天搞完
 2025.01.03
 
 今天继续整ppt, 想想Implementation需要涉及哪些部分, 应该是'主要核心+理论', 尝试将ppt彻底完成, 如果搞定了今天提前结束
+基本完成了ppt到demo前的内容, 差个Conclusion & FUture work, 搞定后简单排一下, 然后把邮件转完今天就ok了
 2025.01.04
