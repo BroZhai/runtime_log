@@ -2100,4 +2100,5 @@ oh shit, 在看软件指标时发现惊天大窟窿, Let's Groove Coaster
 2026.05.27
 
 今天继续把Groove Coaster剩下的内容搞定, 完后继续回归Sys主线
+简单了解了下Groove Coaster对两种乐色不同的清理算法, 继续看看不同的回收机制
 2026.05.28
