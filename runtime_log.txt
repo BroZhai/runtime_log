@@ -2098,3 +2098,6 @@ kafka的内容着实有点劲爆, 需要花些时间整理了...
 oh shit, 在看软件指标时发现惊天大窟窿, Let's Groove Coaster
 简单了解了下Groove Coaster的机制是怎么样的, 一个简单的算法, 明天继续看
 2026.05.27
+
+今天继续把Groove Coaster剩下的内容搞定, 完后继续回归Sys主线
+2026.05.28
