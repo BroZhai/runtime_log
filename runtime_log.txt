@@ -2101,4 +2101,5 @@ oh shit, 在看软件指标时发现惊天大窟窿, Let's Groove Coaster
 
 今天继续把Groove Coaster剩下的内容搞定, 完后继续回归Sys主线
 简单了解了下Groove Coaster对两种乐色不同的清理算法, 继续看看不同的回收机制
+基本搞定了Groove Coaster的笔记, 还差各种劲爆回收器迭代没看, 继续整理了'限流'相关的内容, 明天继续看'限流算法'
 2026.05.28
