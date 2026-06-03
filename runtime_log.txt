@@ -2130,4 +2130,5 @@ oh shit, 在看软件指标时发现惊天大窟窿, Let's Groove Coaster
 2026.06.02
 
 今天继续看各种数据类型的细操指令
+和Bit位大战300回合, 得出重要结论: byte is unsigned, char can be signed or unsigned
 2026.06.03
