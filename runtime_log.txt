@@ -2135,4 +2135,5 @@ oh shit, 在看软件指标时发现惊天大窟窿, Let's Groove Coaster
 2026.06.03
 
 今天继续整理各指令的使用细节
+搞定了String和Hash的内容, 继续看看List Set
 2026.06.04
