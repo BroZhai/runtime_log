@@ -1609,4 +1609,5 @@ NE的内容补了一半, Eb Report敲定好了, 接下来抽空理一下PPT(加�
 突然想到了EB到时候可以只调'一个需求方'来细讲(压缩时间), 将对应的问题说明告知了REQ-001的负责人, 等待PR回应, 接下来的时间把EB遗漏的看完 & 标记, 然后把SEC TUT的内容补上
 简单看完了Eb的内容, 顺带了解了一堆Agent的相关的细节内容如RAG数据库 & MCP(white debug NB), 突然意识到可能SE Pro提交的PR可能有问题, 再回和opc battle 二次确认下
 原来是memory-design的'定义歧义'问题, 哥们的需求并没有涉及'压缩后上下文'的持久化 (搜完就扔了), 所以不用动memory-design, 继续补SEC的遗漏tut内容
+简单补完了SEC tut的内容 (到exe 08, 09做了还没答案, 等待release), 今天剩下的时间推下SE QA笔记 & 看Centay Review回应
 2026.11.15
